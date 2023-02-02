@@ -1,0 +1,81 @@
+html,body {
+	overflow-y: hidden;
+	overflow-x: hidden;
+}
+
+button {
+	padding: 5px;
+	border-radius: 5px;
+	background: #017143;
+	color: white;
+	cursor: pointer;
+}
+
+#container {
+	width: 1250px;
+	height: 700px;
+}
+
+.logo {
+	margin-top: 20px;
+	margin-left: 40px;
+	text-align: left;
+}
+
+.navegacao {
+	text-align: right;
+	margin-top: -170px;
+	margin-right: 100px;
+}
+
+.navegacaoLinks a {
+	margin: 40px;
+	color: #017143;
+	text-decoration: none;
+}
+
+.caixa {
+	width: 900px;
+	height: 900px;
+	border-radius: 50%;
+	background: #017143;
+	margin-left: 790px;
+	margin-top: 110px;
+	position: absolute;
+}
+
+.imgCopo {
+	margin-top: -310px;
+	margin-left: -130px;
+	transform:rotate(-30deg);
+}
+
+.imgLogoRodape {
+	float: left;
+	margin-top: 35px;
+	margin-left: 105px;
+}
+
+.imgCopoStarBucks {
+	margin-left: 500px;
+	margin-top: 45px;
+}
+
+.caixaConteudo {
+	width: 380px;
+	margin-top: 200px;
+	margin-left: 200px;
+}
+
+.tituloStar {
+	color: #017143;
+	font-size: 30px;
+}
+
+.paragrafo {
+	margin-top: -22px;
+}
+
+
+
+
